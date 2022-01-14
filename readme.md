@@ -4,5 +4,5 @@ This repo is to store files from Derek Banas [Python course](https://www.udemy.c
 
 I will try to upload my work here.
 
-I wrote my first app miles to kilometers converter.
+Details about my learning will be presented in [journal](journal.md).
 
