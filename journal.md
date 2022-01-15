@@ -14,3 +14,7 @@ was an exercise to illustrate ```if/elif/else``` statements, used ```split()```
 method to create three variables out of the input string. I learnt about taking input, sorting it and displaying.
 
 ```print("{} + {} = {}".format(num_1, num_2, num_1 + num_2))```
+### Pine tree generator
+
+[Pine tree generator](pine-tree.py) is ascii code art generator. It generates a tree.
+I still don't understand how it does what it does, but user inputs number of levels and it prints out the tree.
